@@ -1,1 +1,2 @@
-Hi Their, this is my portfolio website.
+Hi there!
+This is my portfolio website.
